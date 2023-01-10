@@ -122,6 +122,12 @@ ul{
 
 /*nav */
 
+nav{
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+
 .main-nav{
     justify-content: space-between;
     margin-top: 20px;
